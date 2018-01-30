@@ -11,8 +11,7 @@ redirect_from:
 Overview
 ======
 
-
-
+![Title text](/images/coex.jpg)
 
 
 
