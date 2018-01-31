@@ -31,3 +31,35 @@ ax.yaxis.set_label_coords(-0.005,0.5)
 ax.legend(loc='lower right',prop={'size':11})
 
 plt.savefig('/home/jbertram/repos/jasonbertram.github.io/images/coex.jpg',bbox_inches='tight')
+
+#====================================================================================================
+
+x,y=np.linspace(0,1,1000),np.linspace(0,1,1000)
+X, Y = np.meshgrid(x,y)
+alphas=np.array([[1,1],[1.5,1.5]])
+U = (1-alphas[0,0]*X-alphas[0,1]*Y)*X
+V = (1-alphas[1,1]*Y-alphas[1,0]*X)*Y
+#speed = np.sqrt(U*U + V*V)
+
+plt.figure(figsize=[4,4])
+ax=plt.gca()
+ax.set_aspect(1)
+plt.tight_layout()
+seedpoints=np.concatenate([[[_,0.2-_] for _ in np.arange(0.02,0.2,0.02)],\
+            [[float(_)/10,1.-_*0.1] for _ in range(0,11) if _ not in [1,7]]])
+ax.streamplot(x, y, U, V,density=100,start_points=seedpoints,linewidth=1.)
+
+z1=np.linspace(0,1,10)
+z2=1-z1
+ax.plot(z1,(1-alphas[0,0]*z1)/alphas[0,1],'k--',linewidth=2)
+ax.plot(z1,(1-alphas[1,0]*z1)/alphas[1,1],'k--',linewidth=2)
+#ax1.plot([0,1/alphas[0,0]],[1/alphas[1,1],0],'y',linewidth=2)
+ax.set_xlim([0,1])
+ax.set_ylim([0,1])
+
+ax.set_xticklabels([])
+ax.set_yticklabels([])
+ax.set_xlabel("Type 1 density",fontsize=20)
+ax.set_ylabel("Type 2 density",fontsize=20)
+
+plt.savefig('/home/jbertram/repos/jasonbertram.github.io/Kplot.jpg',bbox="tight")
