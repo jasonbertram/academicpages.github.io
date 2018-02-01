@@ -62,4 +62,4 @@ ax.set_yticklabels([])
 ax.set_xlabel("Type 1 density",fontsize=20)
 ax.set_ylabel("Type 2 density",fontsize=20)
 
-plt.savefig('/home/jbertram/repos/jasonbertram.github.io/Kplot.jpg',bbox="tight")
+plt.savefig('/home/jbertram/repos/jasonbertram.github.io/images/Kplot.jpg',bbox="tight")
