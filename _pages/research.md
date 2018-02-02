@@ -9,13 +9,15 @@ author_profile: true
 
 Biological organisms exhibit an astonishing variety of adaptations. Darwin famously outlined how natural selection acting on heritable variation might produce these adaptations over many generations. Today, with modern DNA sequencing technology, we are able to observe evolution in incredible detail, down to changes of single nucleotides. Yet making sense of evolution at this level of detail requires a quantititive theory of how gene frequencies from generation to generation. Developing such a theory has proved to be a major challenge. 
 
-##The interplay between ecology and evolution
+The interplay between ecology and evolution
+------
 
 One major challenge for modern evolutionary theory is that the ``objective'' of selection is always changing, and indeed changes as a result of selection itself. For instance, population densities strongly influence which traits are favored by selection, but trait evolution changes ecological interactions and population densities. The resulting eco-evolutionary feedbacks can be complex, and can even produce perverse outcomes, such as “evolutionary suicide”.
 
 ![Title text]({{ site.url }}/images/Kplot.jpg)
 
-##Constraints on selection and the maintenance of genetic variation
+Constraints on selection and the maintenance of genetic variation
+------
 
 On top of this, we are still grappling with how heritable variation is produced and maintained. Selection can work with the genotypes that are present, and the genpotypic composition of a population is intimately connected to how heritable information is stored and transmitted from one generation to the next. In particular, genes are physically linked in DNA (“linkage”), and thus their evolutionary fates can be coupled even if they have completely unrelated roles in the organism. Linked selection makes it harder for evolution to simultaneously address multiple challenges, and causes adaptive mutations to compete with – and potentially eliminate – each other.
 
