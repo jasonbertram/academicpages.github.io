@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 **Email**  
-jbertram@email.arizona.edu
+jxb@iu.edu
 
 **Current Address**  
-Department of Ecology and Evolutionary Biology  
-University of Arizona  
-Tucson, AZ  
+Environmental Resilience Institute & Department of Biology 
+Indiana University  
+Bloomington, IN  
 
 **Phone**  
 (+1) 520-268-0775
