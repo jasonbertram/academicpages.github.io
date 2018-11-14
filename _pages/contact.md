@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-**Email** 
+**Email**  
 jbertram@email.arizona.edu
 
-**Current Address** 
-Department of Ecology and Evolutionary Biology
-University of Arizona
-Tucson, AZ
+**Current Address**  
+Department of Ecology and Evolutionary Biology  
+University of Arizona  
+Tucson, AZ  
 
-**Phone**
+**Phone**  
 (+1) 520-268-0775
 
 
