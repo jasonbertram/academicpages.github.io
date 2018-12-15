@@ -16,5 +16,5 @@ redirect_from:
 2011-2014 - PhD. "Entropy-related principles for non-equilibrium systems: theoretical foundations and applications to ecology and fluid dynamics" (Australian National University)  
 
 **Professional Research Experience**  
-2015-2018 - Postdoctoral Research Associate. Department of Ecology and Evolutionary Biology, University of Arizona. 
+2015-2018 - Postdoctoral Research Associate. Department of Ecology and Evolutionary Biology, University of Arizona  
 2018-present - Research Faculty. Environmental Resilience Institute & Department of Biology, Indiana University
