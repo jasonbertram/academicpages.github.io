@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf of my CV can be downloaded <u>[here](http://jasonbertram.github.io/files/bertram_cv.pdf)</u>
+A pdf of my CV can be downloaded [<u>here</u>](http://jasonbertram.github.io/files/bertram_cv.pdf)
