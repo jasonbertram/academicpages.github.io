@@ -17,7 +17,5 @@ Environmental Resilience Institute & Department of Biology
 Indiana University  
 Bloomington, IN  
 
-**Phone**  
-(+1) 520-268-0775
 
 
