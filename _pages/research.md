@@ -7,19 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-Biological organisms exhibit an astonishing variety of adaptations. Darwin famously outlined how natural selection acting on heritable variation might produce these adaptations over many generations. Today, with modern DNA sequencing technology, we are able to observe evolution in incredible detail, down to changes of single nucleotides. Yet making sense of evolution at this level of detail requires a quantititive theory of how gene frequencies from generation to generation. Developing such a theory has proved to be a major challenge as a result of two major complexities: (1) evolution and ecology are intertwined; (2) genetic factors can facilitate or hinder adaptation in complicated ways. I devise mathematical models to develop our understanding of how these two fundamental complexities have shaped the adaptations we see today, and continue to shape adaptive evolution in nature and the lab.
+Life on earth exhibits an astonishing variety of adaptations. Darwin famously outlined how natural selection acting on heritable variation might produce these adaptations over many generations. Today, with modern DNA sequencing technology, we are able to observe the dynamics of adaptive evolution in its full genetic complexity, down to changes of individual DNA nucleotides. However, it is still a major challenge to link the genetic patterns that we observe in DNA sequence data to the ecology and evolution of adaptive traits. I develop mathematical models to understand how ecological, evolutionary and genetic processes combine to drive adaptive evolution, and what signatures those processes leave behind in DNA. 
 
 The interplay between ecology and evolution
 ------
 
-One major challenge for modern evolutionary theory is that the ``objective'' of selection is always changing, and indeed changes as a result of selection itself. For instance, population densities strongly influence which traits are favored by selection, but trait evolution changes ecological interactions and population densities. The resulting eco-evolutionary feedbacks can be complex, and can even produce perverse outcomes, such as “evolutionary suicide”.
-
+Deciphering the interplay between ecology and evolution is one of the major unsolved problems in modern biology. On the one hand, the interaction of a population with its environment determines which phenotypic traits are favored by selection. On the other, trait evolution changes the interaction of the population with its environment, thereby affecting the structure of the ecological community in which the population lives. The resulting eco-evolutionary dynamics are complex, but we must make sense of these dymamics if we are to understand how and why different traits evolve.
 ![Title text]({{ site.url }}/images/Kplot.jpg)
 
-Constraints on selection and the maintenance of genetic variation
+Genetic factors in evolution
 ------
 
-On top of this, we are still grappling with how heritable variation is produced and maintained. Selection can work with the genotypes that are present, and the genpotypic composition of a population is intimately connected to how heritable information is stored and transmitted from one generation to the next. In particular, genes are physically linked in DNA (“linkage”), and thus their evolutionary fates can be coupled even if they have completely unrelated roles in the organism. Linked selection makes it harder for evolution to simultaneously address multiple challenges, and causes adaptive mutations to compete with – and potentially eliminate – each other.
+On top of the issue of understanding the interplay between ecology and evolution at the level of phenotpyic traits, we are still grappling with how genetic processes shape evolution. For example, genes are physically linked in DNA (“linkage”), and thus their evolutionary fates can be coupled even if they have largely unrelated roles in the organism. Linked selection makes it harder for evolution to simultaneously address multiple challenges, and causes adaptive mutations to compete with – and potentially eliminate – each other. Genetic processes interact with eco-evolutionary processes at the trait level to govern the overall course that evolution takes. 
 
 ![Title text]({{ site.url }}/images/coex.jpg) 
 
+Applications
+------
+
+Understanding eco-evolutionary dynamics in the presence of genetic constraints has many important applications. For example, I have developed models to explore the evolutionary dynamics of extinction, an important current issue given the pressures imposed by humans on natural ecosystems. I have also worked on rapidly evolving fruit fly populations to understand how their impressive levels of genetic variation might be maintained by seasonal variation in their environment. For a full publication list, please see my Publications or CV.  
+
+ 
