@@ -10,8 +10,9 @@ redirect_from:
 
 Welcome! I am a theoretical biologist working broadly in the areas of evolution and ecology. I develop mathematical models to gain insight into how ecological communities are structured, and how populations adapt to their ecological circumstances. 
 
+![]({{ site.url }}/images/zipping.gif)
+
 Short bio
 ------
 
-Originally trained in mathematics, my research career started in the physics of plasmas and turbulent fluids, but I soon switched to join the exciting developments occuring in the life sciences. In my PhD, I worked on extending statistical mechanics (an approach developed in physics for predicting the collective behavior of large numbers of particles) to community structure questions in ecology. Through this work I became more familiar with a diverse body of unsolved problems in population biology, and I have since developed a strong interest in the theory of evolution and population genetics (the study of how the genetic composition of populations changes over time). One thing I love about population genetics is its  potential for developing rigorous and empirically tested quantitative theories of evolution due to the explosive growth of DNA sequence data. The problems I work on now are a blend of population genetics and ecology, and have important applications in the medical and environmental sciences.
-
+I was originally trained in mathematics at the University of Cape Town (South Africa), and then completed my graduate studies in theoretical ecology in the Research School of Biology at the Australian National University. Following graduate school, I expanded my research program to encompass evolutionary questions during a postdoc in the Masel lab in the Ecology and Evolutionary Biology Department at the University of Arizona. I am currently an independent research fellow in the Environmental Resilience Institute at Indiana University, where I study the genetics/genomics and eco-evolutionary dynamics of evolving populations in the lab and in the wild. 
