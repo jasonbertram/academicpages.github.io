@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a theoretical biologist working broadly in the areas of evolution and ecology. I develop mathematical models to gain insight into how ecological communities are structured, and how populations adapt to their ecological circumstances. 
+Welcome! I am a theoretical biologist working broadly in the areas of evolution and ecology. I develop mathematical models to understand the biological processes that underpin adaptive evolution.
 
 ![]({{ site.url }}/images/zipping.gif)
 
