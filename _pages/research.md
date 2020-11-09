@@ -12,7 +12,7 @@ Life on earth exhibits an astonishing variety of adaptations. Darwin famously ou
 Understanding the population genetic processes underpinning adaptation
 ------
 
-A central challenge in evolutionary biology is to decipher how the genetic composition of populations change over time to produce organisms better suited to their environment. I tackle this challenge at both a conceptual level of developing the theory and models to equip us to understand the basic processes underpinning genetic evolution, but also the empirical level of deducing where and when selection is occuring (or has occurred) accross the genome from DNA sequence data. 
+A central challenge in evolutionary biology is to decipher how the genetic composition of populations change over time to produce organisms better suited to their environment. I tackle this challenge at both a conceptual level of developing the theory and models to equip us to understand the basic processes underpinning genetic evolution, but also the empirical level of deducing where and when selection is occuring (or has occurred) across the genome from DNA sequence data. 
 
 ![Title text]({{ site.url }}/images/maze_example.png) 
 
